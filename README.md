@@ -6,7 +6,7 @@ I was fortunate to have been accepted into an industry partner Capstone program 
 
 ## README
 The following README was included along with the code package as part of the final Capstone submission.
-
+'''
 ## Title: 
 EfficientNetV2 Neural Architecture Search - Project Artefacts
 November 2022
@@ -64,4 +64,4 @@ Results of evaluation, including saved model parameters and performance results,
 Benchmark comparisons with BetaNet2/3 models are prepared using the "plotting_benchmarks.ipynb" notebook.
 A supplementary file is included "framerate_ddp_INCOMPLETE.py" which was partially complete at the time of submission. The intention of this script was to test and compare inference
 rates for the BetaNet2/3 models with those for the benchmark models. The user is invited to continue this work if it is of interest.
-
+'''
